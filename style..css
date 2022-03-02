@@ -1,0 +1,98 @@
+.btnBlack {
+  padding: 13px 25px;
+  background: #212b31;
+  color: #fff;
+  border-radius: 4px;
+  border: 1px solid #212b31;
+  transition: 2s;
+}
+
+.btnBlack:hover {
+  background: #fff;
+  transition: 0.2s;
+  color: #212b31;
+}
+
+.btnWhite {
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 13px 25px;
+  background: #ffffff;
+  color: #212b31;
+  border: 1px solid #dadedf;
+  transition: 2s;
+}
+
+.btnWhite:hover {
+  background: #ffd042;
+  transition: 0.2s;
+  color: #fff;
+}
+
+.container{
+    max-width: 1056px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+
+.features {
+  margin-top: 148px;
+}
+.features__name {
+  font-family: Inter;
+  font-weight: normal;
+  font-size: 18px;
+  color: #212b31;
+}
+.features__descr {
+  font-family: Inter;
+  font-weight: normal;
+  font-size: 16px;
+  color: #72787d;
+}
+
+.features__content{
+    display: flex;
+}
+.features__box{
+    width: 325px;
+    text-align: center;
+    margin: 0 auto;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
